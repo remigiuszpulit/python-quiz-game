@@ -1,0 +1,149 @@
+{
+  "length": 10,
+  "questions": [
+    {
+      "title": "How many seasons of Friends are there?",
+      "answers": [
+        { "label": "Ten", "value": "true" },
+        { "label": "Eleven", "value": "false" },
+        { "label": "Eight", "value": "false" },
+        { "label": "Fifteen", "value": "false" }
+      ]
+    },
+    {
+      "title": "How many times did Ross get divorced",
+      "answers": [
+        { "label": "Three", "value": "true" },
+        { "label": "Two", "value": "false" },
+        { "label": "Four", "value": "false" },
+        { "label": "Once", "value": "false" }
+      ]
+    },
+    {
+      "title": "What store does Phoebe hate?",
+      "answers": [
+        { "label": "Pottery Barn", "value": "true" },
+        { "label": "Ikea", "value": "false" },
+        { "label": "Auchan", "value": "false" },
+        { "label": "Lidl", "value": "false" }
+      ]
+    },
+    {
+      "title": "Rachel got a job with which company in Paris?",
+      "answers": [
+        { "label": "Louis Vuitton", "value": "true" },
+        { "label": "Gucci", "value": "false" },
+        { "label": "Prada", "value": "false" },
+        { "label": "Reserved", "value": "false" }
+      ]
+    },
+    {
+      "title": "Phoebe’s scientist boyfriend David worked in what city?",
+      "answers": [
+        { "label": "Minsk", "value": "true" },
+        { "label": "Moscow", "value": "false" },
+        { "label": "Belgrad", "value": "false" },
+        { "label": "Warsaw", "value": "false" }
+      ]
+    },
+    {
+      "title": "What is Chandler Bing’s middle name?",
+      "answers": [
+        { "label": "Muriel", "value": "true" },
+        { "label": "Madison", "value": "false" },
+        { "label": "Mathilda", "value": "false" },
+        { "label": "Marzena", "value": "false" }
+      ]
+    },
+    {
+      "title": "Who pees on Monica after she is stung by a jellyfish?",
+      "answers": [
+        { "label": "Chandler", "value": "true" },
+        { "label": "Joey", "value": "false" },
+        { "label": "Ross", "value": "false" },
+        { "label": "Rachel", "value": "false" }
+      ]
+    },
+    {
+      "title": "What is the name of Phoebe’s twin sister?",
+      "answers": [
+        { "label": "Ursula", "value": "true" },
+        { "label": "Audrey", "value": "false" },
+        { "label": "Linda", "value": "false" },
+        { "label": "Rachel", "value": "false" }
+      ]
+    },
+    {
+      "title": "What does Rachel guess Chandler’s job is?",
+      "answers": [
+        { "label": "A transponster", "value": "true" },
+        { "label": "A direcounant", "value": "false" },
+        { "label": "Bartender", "value": "false" },
+        { "label": "Cheese Developer", "value": "false" }
+      ]
+    },
+    {
+      "title": "Who is Joey’s agent?",
+      "answers": [
+        { "label": "Estelle", "value": "true" },
+        { "label": "Alison", "value": "false" },
+        { "label": "Giselle", "value": "false" },
+        { "label": "Antoinette", "value": "false" }
+      ]
+    },
+    {
+      "title": "Ross and Rachel’s wedding dinner was held where in Vegas?",
+      "answers": [
+        { "label": "Pizza Hut", "value": "true" },
+        { "label": "Burger King", "value": "false" },
+        { "label": "McDonalds", "value": "false" },
+        { "label": "Wendy's", "value": "false" }
+      ]
+    },
+    {
+      "title": "Joey and Chandler’s TV guide is addressed to who?",
+      "answers": [
+        { "label": "Miss Chanandler Bong", "value": "true" },
+        { "label": "Sir Chandlerson Chandlersky", "value": "false" },
+        { "label": "Mrs Chandlerette Bongovitz", "value": "false" },
+        { "label": "Joey", "value": "false" }
+      ]
+    },
+    {
+      "title": "According to Monica, a woman has how many erogenous zones?",
+      "answers": [
+        { "label": "Seven", "value": "true" },
+        { "label": "Five", "value": "false" },
+        { "label": "Eleven", "value": "false" },
+        { "label": "Twenty", "value": "false" }
+      ]
+    },
+    {
+      "title": "What form of self-defense does Ross try to teach Rachel and Phoebe?",
+      "answers": [
+        { "label": "Unagi", "value": "true" },
+        { "label": "Umami", "value": "false" },
+        { "label": "Uramaki", "value": "false" },
+        { "label": "California Roll", "value": "false" }
+      ]
+    },
+    {
+      "title": "What is the name of Joey’s stuffed penguin?",
+      "answers": [
+        { "label": "Hugsy", "value": "true" },
+        { "label": "Bugsy", "value": "false" },
+        { "label": "Stephen", "value": "false" },
+        { "label": "Arnold", "value": "false" }
+      ]
+    },
+    {
+      "title": "What color is Monica’s apartment?",
+      "answers": [
+        { "label": "Purple", "value": "true" },
+        { "label": "Green", "value": "false" },
+        { "label": "Yellow", "value": "false" },
+        { "label": "Blue", "value": "false" }
+      ]
+    }
+  ]
+}
